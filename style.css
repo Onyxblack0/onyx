@@ -1,0 +1,77 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+  body {
+  background-color: darkslategray;
+}
+ .button1 {
+    background-color: green;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+   border-radius: 25px;
+   width: 200px;
+   height: 250px;
+  }
+ .adimg{
+   border-radius:24px ;
+ } 
+  .header{
+    background-color: #000000;
+    padding: 10px 32px;
+    display: block;
+    position:sticky ;
+    border-radius: 25px;
+    color: white;
+    text-align: center;
+  }
+.toolbar1{ 
+  background-color: #000000;
+  color: white;
+  display: inline-block;
+  width: 250px;
+  height: 60px;
+  border-color: white;
+  border-style: solid;
+  border-radius: 15px;
+  justify-content: center;
+  margin: 5px;
+}
+
+.button2 {
+  background-color: #0b6684;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+ border-radius: 25px;
+ width: 200px;
+ height: 250px;
+}
+.button3 {
+  background-color: #840b0b;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+ border-radius: 25px;
+ width: 200px;
+ height: 250px;
+}
